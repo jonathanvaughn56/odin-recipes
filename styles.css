@@ -3,7 +3,7 @@
     text-align: center;
 
     background-color: rgb(80, 187, 151);
-    color: rgb(205, 250, 193);
+    color: brown;
     margin: 20px;  
     border: 5px solid brown;  
     padding: 20px;
@@ -12,8 +12,18 @@
 .body{
     text-align: center;
     background-color: antiquewhite;
+    border: 22px solid brown;
+    padding: 22px;
+}
+
+.button{
+    color: rgb(205, 250, 193);
+    background-color: brown;
+    border: solid rgb(205, 250, 193);
+    padding: 14px;
 }
 
 .description{
-    color: rebeccapurple;
+    color: white;
+    background-color: brown;
 }
