@@ -1,0 +1,19 @@
+.lasagna-link, .burger-link{
+    font-size: 26px;
+    text-align: center;
+
+    background-color: rgb(80, 187, 151);
+    color: rgb(205, 250, 193);
+    margin: 20px;  
+    border: 5px solid brown;  
+    padding: 20px;
+}
+
+.body{
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.description{
+    color: rebeccapurple;
+}
